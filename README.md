@@ -1,4 +1,4 @@
-Designed and developed a full-stack web application for managing grocery store operations. The application includes key features like user authentication, product inventory management, order placement, and real-time updates. The backend, powered by Flask, ensures seamless data processing, while the frontend leverages Bootstrap and Jinja2 templates for a responsive and interactive user interface.
+Designed and developed a full-stack web application for managing grocery store operations. The application includes key features like user authentication, product inventory management, order placement, and real-time updates. The backend, powered by Flask and MySql Workbench, ensures seamless data processing, while the frontend leverages Bootstrap templates for a responsive and interactive user interface.
 
 Advanced Functionalities and Hosting: Integrated database management with SQLite for efficient data storage and retrieval. Demonstrated expertise in implementing RESTful APIs and managing backend logic to support dynamic user interactions. The project is hosted on GitHub, reflecting proficiency in collaborative development and version control.
 
